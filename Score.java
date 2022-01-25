@@ -1,9 +1,5 @@
 import java.awt.*;
 
-/*
-	Milleny Caroliny de Almeida Santos - NUSP 11937979
-	
-*/
 
 /**
 	Esta classe representa um placar no jogo. A classe princial do jogo (Pong)
