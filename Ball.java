@@ -1,10 +1,5 @@
 import java.awt.*;
 
-/*
-	Milleny Caroliny de Almeida Santos - NUSP 11937979
-	
-*/
-
 /**
 	Esta classe representa a bola usada no jogo. A classe princial do jogo (Pong)
 	instancia um objeto deste tipo quando a execução é iniciada.
