@@ -1,11 +1,5 @@
 import java.awt.*;
 
-/*
-	Milleny Caroliny de Almeida Santos - NUSP 11937979
-	
-*/
-
-
 /**
 	Esta classe representa os jogadores (players) do jogo. A classe princial do jogo (Pong)
 	instancia dois objetos deste tipo quando a execução é iniciada.
