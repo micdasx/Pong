@@ -6,8 +6,6 @@ Exercício programa realizado para a matéria de Computação Orientada a Objeto
 
 # Compilação
 
-	Abra o terminal na pasta "src";
-	
 	Compile os arquivos .java:
 		javac *.java
 
